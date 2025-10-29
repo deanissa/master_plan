@@ -1,1 +1,1 @@
-![Demo Master Plan](praktikum01.png)
+![Demo Master Plan](images/praktikum01.png)
